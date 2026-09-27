@@ -1,9 +1,9 @@
 DSA 8670 — Introduction
 
-Name: Sofia A. Maynard
+Name:
 
-Major / program: DSA Program
+Major / program: 
 
-Favorite dataset or industry interest: I'm interested in Music/Streaming analytics.
+Favorite dataset or industry interest: 
 
-One reason I am studying analytics: I find it really interesting and would like to expand my knowledge within the field.
+One reason I am studying analytics: 
