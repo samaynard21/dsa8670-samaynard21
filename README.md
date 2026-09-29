@@ -13,6 +13,20 @@ Full instructions: **[Week 5 – GitHub Foundations](./week5.md)**
 
 ---
 
+## Part 3 - Branching & Pull Request
+
+- Why version control matters for analytics.
+
+- At least one connection to this week's readings.
+
+- **Version control matters for analytics, as it helps keep track of changes made throughout 
+  the project process. It allows for progression to the next step, and easy referencing to
+  previous versions that were created. Utilizing version control helps with collaboration as
+  well to understand the progression of one version to the next.** 
+  
+- **Reading about version control helped me understand its importance and introduced the
+  organizational and clarity functions it has for group collaboration with projects.**
+
 ## Learning Goals
 
 By the end of Week 5, you should be able to:
