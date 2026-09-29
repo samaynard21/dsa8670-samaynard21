@@ -1,0 +1,5 @@
+- Step 1: Load the dataset
+- Step 2: Clean the data by filtering out any factors that aren't relevant to the project/analysis
+- Step 3: Calculate the summary statistics of the dataset
+- Step 4: Create a visualization that will add value to the analysis and represent the data and address the question well
+- Step 5: Interpret the results in a meaningful and understandable way
